@@ -3,7 +3,7 @@
 #
 # SPDX-License-Identifier: BSD-2-Clause-FreeBSD
 #
-# Copyright (c) 2023  Clockwork@FreeBSD.org
+# Copyright (c) 2023  Clockwork6400@protonmail.com
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
@@ -30,7 +30,7 @@
 
 #
 # Inspired on spkrtest(8)
-# $VER: spkrcw 0.2 (11.01.2023) CW <Clockwork@FreeBSD.org>
+# $VER: spkrcw 0.2 (11.01.2023) CW <Clockwork6400@protonmail.com>
 # $FreeBSD$
 #
 
