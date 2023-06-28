@@ -53,7 +53,7 @@ then
 	cleanExit 1
 fi
 
-/usr/bin/dialog --title "Melody arrangements for speaker by Clockwork@FreeBSD.org" --checklist \
+/usr/bin/dialog --title "Melody arrangements for speaker by Clockwork6400@protonmail.com" --checklist \
 	"Please select the melodies you wish to play (space for select)" \
 	0 0 0 \
 	DeepPurple "Deep Purple - Smoke on the water" OFF \
